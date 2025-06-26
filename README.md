@@ -4,12 +4,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" height="300"/>
 </p>
 
-<p align="center" style="font-size: 1.2rem; color: #8e44ad;">
-  🎓 <strong>BS Information Technology Student</strong> | PUP Sta. Mesa <br>
-</p>
-
 <p align="center">
-  🌱 <strong>Currently Learning:</strong> Python, Java, ReactJS, 
+  <strong>I am currently interested in learning Python, Java, and JavaScript </strong>, 
 </p>
 
 ---
